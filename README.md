@@ -143,6 +143,8 @@ I want to namely thank the developers behind [xterm.js](https://github.com/xterm
 
 Huge thanks to [Rob "Arscan" Scanlon](https://github.com/arscan) for making the fantastic [ENCOM Globe](https://github.com/arscan/encom-globe), also inspired by the TRON: Legacy movie, and distributing it freely. His work really puts the icing on the cake.
 
+future of ui and ux design is in here!
+
 ## Licensing
 
 Licensed under the [GPLv3.0](https://github.com/GitSquared/edex-ui/blob/master/LICENSE).
